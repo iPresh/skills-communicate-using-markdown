@@ -7,3 +7,6 @@
 ```
 docker version
 ```
+- [ ] Register for All in One sessions
+- [ ] Work on pending submissions
+- [ ] Contribute to open source
